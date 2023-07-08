@@ -16,9 +16,9 @@ public class Excercise06 {
               input =   input /10 ;
                 count ++;
             }
-            System.out.println("It is " + count + "digit number");
+            System.out.println("It is a " + count + "digit number");
         } else {
-            System.out.println("number is not between 1 -> 99999");
+            System.out.println("number is not between 1  & 99999");
         }
 
     }
